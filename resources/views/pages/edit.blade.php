@@ -58,7 +58,6 @@
 
                             </div>
                         </div>
-                        <input type="text" name="filepath" value="{{ asset($product->image) }}" class="w-full"><br>
                         <button type="submit" id="save-btn"
                             class="px-4 py-2 bg-green-600 text-white rounded-md shadow hover:bg-green-700 focus:outline-none">Update</button>
                         <div class="border-t px-4 py-2 flex justify-end space-x-2"> 
